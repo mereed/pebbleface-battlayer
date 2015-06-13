@@ -1,0 +1,147 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chops",
+    "longName": "battLayer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/batt10img.png",
+                "name": "IMAGE_BATT00",
+                "type": "png"
+            },
+            {
+                "file": "images/battrylevelmenu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/batt20img2.png",
+                "name": "IMAGE_BATT20",
+                "type": "png"
+            },
+            {
+                "file": "images/batt90img2.png",
+                "name": "IMAGE_BATT90",
+                "type": "png"
+            },
+            {
+                "file": "images/batt30img2.png",
+                "name": "IMAGE_BATT30",
+                "type": "png"
+            },
+            {
+                "file": "images/batt40img2.png",
+                "name": "IMAGE_BATT40",
+                "type": "png"
+            },
+            {
+                "file": "images/batt10img2.png",
+                "name": "IMAGE_BATT10",
+                "type": "png"
+            },
+            {
+                "file": "images/batt50img.png",
+                "name": "IMAGE_BATT50",
+                "type": "png"
+            },
+            {
+                "file": "images/batt60img.png",
+                "name": "IMAGE_BATT60",
+                "type": "png"
+            },
+            {
+                "file": "images/batt70img.png",
+                "name": "IMAGE_BATT70",
+                "type": "png"
+            },
+            {
+                "file": "images/batt80img.png",
+                "name": "IMAGE_BATT80",
+                "type": "png"
+            },
+            {
+                "file": "images/layer10.png",
+                "name": "IMAGE_BLOCK10",
+                "type": "png"
+            },
+            {
+                "file": "images/layer9.png",
+                "name": "IMAGE_BLOCK9",
+                "type": "png"
+            },
+            {
+                "file": "images/layer8.png",
+                "name": "IMAGE_BLOCK8",
+                "type": "png"
+            },
+            {
+                "file": "images/layer7.png",
+                "name": "IMAGE_BLOCK7",
+                "type": "png"
+            },
+            {
+                "file": "images/layer6.png",
+                "name": "IMAGE_BLOCK6",
+                "type": "png"
+            },
+            {
+                "file": "images/layer5.png",
+                "name": "IMAGE_BLOCK5",
+                "type": "png"
+            },
+            {
+                "file": "images/layer4.png",
+                "name": "IMAGE_BLOCK4",
+                "type": "png"
+            },
+            {
+                "file": "images/layer3.png",
+                "name": "IMAGE_BLOCK3",
+                "type": "png"
+            },
+            {
+                "file": "images/layer2.png",
+                "name": "IMAGE_BLOCK2",
+                "type": "png"
+            },
+            {
+                "file": "images/layer1.png",
+                "name": "IMAGE_BLOCK1",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/MEANSANS.TTF",
+                "name": "FONT_SANS_70",
+                "trackingAdjust": 1,
+                "type": "font"
+            },
+            {
+                "file": "fonts/MEANSANS.TTF",
+                "name": "FONT_SANS_24",
+                "trackingAdjust": 1,
+                "type": "font"
+            },
+            {
+                "file": "fonts/MEANSANS.TTF",
+                "name": "FONT_SANS_16",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "battLayer",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "196a086f-5f34-4f50-9211-ffa1bdc6d1c9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
